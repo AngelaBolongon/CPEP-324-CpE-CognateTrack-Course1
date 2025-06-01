@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: radial-gradient(circle at 20% 20%, #ffc0cb 0%, #a18cd1 50%, #fbc2eb 100%);
+  background-size: 300% 300%;
+  animation: gradientShift 15s ease infinite;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+  z-index: 0;
+}
+
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.container {
+  text-align: center;
+  z-index: 2;
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 2.5em;
+  color: #ffe4f4;
+  text-shadow: 0 0 10px #ffe4f4, 0 0 20px #ff69b4;
+}
+
+.live-camera {
+  position: relative;
+  width: 640px;
+  height: 480px;
+  border: 3px solid #ff69b4;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 0 40px rgba(255, 105, 180, 0.4);
+  margin: auto;
+  z-index: 2;
+}
+
+video {
+  transform: scaleX(-1);
+}
+
+canvas {
+  transform: none;
+}
+
+video, canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 640px;
+  height: 480px;
+  object-fit: cover;
+}
+
+/* ✨ Sparkle animation */
+.sparkle {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.sparkle span {
+  position: absolute;
+  display: block;
+  width: 6px;
+  height: 6px;
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 50%;
+  animation: sparkleMotion 10s linear infinite;
+}
+
+.sparkle span:nth-child(1) { left: 10%; animation-delay: 0s; }
+.sparkle span:nth-child(2) { left: 30%; animation-delay: 2s; }
+.sparkle span:nth-child(3) { left: 50%; animation-delay: 4s; }
+.sparkle span:nth-child(4) { left: 70%; animation-delay: 6s; }
+.sparkle span:nth-child(5) { left: 90%; animation-delay: 8s; }
+
+@keyframes sparkleMotion {
+  0% { top: 100%; transform: scale(1); opacity: 1; }
+  100% { top: -10%; transform: scale(1.5); opacity: 0; }
+}
+
+.object-count-box {
+  margin-top: 20px;
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 10px 20px;
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(255, 105, 180, 0.5);
+  font-size: 1em;
+  font-weight: bold;
+  color: #fff;
+  backdrop-filter: blur(5px);
+  display: inline-block;
+}
