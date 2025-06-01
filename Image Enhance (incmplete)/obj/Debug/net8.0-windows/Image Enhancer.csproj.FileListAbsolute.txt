@@ -1,0 +1,208 @@
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\obj\Debug\net8.0-windows\Image Enhancer.csproj.AssemblyReference.cache
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\obj\Debug\net8.0-windows\Image_Enhancer.Form1.resources
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\obj\Debug\net8.0-windows\Image_Enhancer.Properties.Resources.resources
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\obj\Debug\net8.0-windows\Image Enhancer.csproj.GenerateResource.cache
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\obj\Debug\net8.0-windows\Image Enhancer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\obj\Debug\net8.0-windows\Image Enhancer.AssemblyInfoInputs.cache
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\obj\Debug\net8.0-windows\Image Enhancer.AssemblyInfo.cs
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\obj\Debug\net8.0-windows\Image Enhancer.csproj.CoreCompileInputs.cache
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\Image Enhancer.exe
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\Image Enhancer.deps.json
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\Image Enhancer.runtimeconfig.json
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\Image Enhancer.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\Image Enhancer.pdb
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\Emgu.CV.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\Emgu.CV.UI.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\Emgu.CV.Wpf.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\EmguFFmpeg.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\EmguFFmpeg.OpenCvSharp.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\FFmpeg.AutoGen.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\OpenCvSharp.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\obj\Debug\net8.0-windows\Image En.D80EA1B6.Up2Date
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\obj\Debug\net8.0-windows\Image Enhancer.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\obj\Debug\net8.0-windows\refint\Image Enhancer.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\obj\Debug\net8.0-windows\Image Enhancer.pdb
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\obj\Debug\net8.0-windows\Image Enhancer.genruntimeconfig.cache
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\obj\Debug\net8.0-windows\ref\Image Enhancer.dll
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\obj\Debug\net8.0-windows\Image_Enhancer.Form02.resources
+C:\Users\Angela\Documents\VS Projects\Image Enhancer\obj\Debug\net8.0-windows\Image_Enhancer.Form3.resources
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\Image Enhancer.exe
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\Image Enhancer.deps.json
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\Image Enhancer.runtimeconfig.json
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\Image Enhancer.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\Image Enhancer.pdb
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\Emgu.CV.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\Emgu.CV.UI.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\Emgu.CV.Wpf.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\EmguFFmpeg.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\EmguFFmpeg.OpenCvSharp.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\FFmpeg.AutoGen.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\OpenCvSharp.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\obj\Debug\net8.0-windows\Image Enhancer.csproj.AssemblyReference.cache
+C:\Users\Angela\Documents\VS Projects\trial3333\obj\Debug\net8.0-windows\Image_Enhancer.Form1.resources
+C:\Users\Angela\Documents\VS Projects\trial3333\obj\Debug\net8.0-windows\Image_Enhancer.Form02.resources
+C:\Users\Angela\Documents\VS Projects\trial3333\obj\Debug\net8.0-windows\Image_Enhancer.Form3.resources
+C:\Users\Angela\Documents\VS Projects\trial3333\obj\Debug\net8.0-windows\Image_Enhancer.Properties.Resources.resources
+C:\Users\Angela\Documents\VS Projects\trial3333\obj\Debug\net8.0-windows\Image Enhancer.csproj.GenerateResource.cache
+C:\Users\Angela\Documents\VS Projects\trial3333\obj\Debug\net8.0-windows\Image Enhancer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angela\Documents\VS Projects\trial3333\obj\Debug\net8.0-windows\Image Enhancer.AssemblyInfoInputs.cache
+C:\Users\Angela\Documents\VS Projects\trial3333\obj\Debug\net8.0-windows\Image Enhancer.AssemblyInfo.cs
+C:\Users\Angela\Documents\VS Projects\trial3333\obj\Debug\net8.0-windows\Image Enhancer.csproj.CoreCompileInputs.cache
+C:\Users\Angela\Documents\VS Projects\trial3333\obj\Debug\net8.0-windows\Image En.D80EA1B6.Up2Date
+C:\Users\Angela\Documents\VS Projects\trial3333\obj\Debug\net8.0-windows\Image Enhancer.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\obj\Debug\net8.0-windows\refint\Image Enhancer.dll
+C:\Users\Angela\Documents\VS Projects\trial3333\obj\Debug\net8.0-windows\Image Enhancer.pdb
+C:\Users\Angela\Documents\VS Projects\trial3333\obj\Debug\net8.0-windows\Image Enhancer.genruntimeconfig.cache
+C:\Users\Angela\Documents\VS Projects\trial3333\obj\Debug\net8.0-windows\ref\Image Enhancer.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\Image Enhancer.exe
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\Image Enhancer.deps.json
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\Image Enhancer.runtimeconfig.json
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\Image Enhancer.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\Image Enhancer.pdb
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\Emgu.CV.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\Emgu.CV.UI.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\Emgu.CV.Wpf.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\EmguFFmpeg.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\EmguFFmpeg.OpenCvSharp.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\FFmpeg.AutoGen.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\OpenCvSharp.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\obj\Debug\net8.0-windows\Image Enhancer.csproj.AssemblyReference.cache
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\obj\Debug\net8.0-windows\Image_Enhancer.Form1.resources
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\obj\Debug\net8.0-windows\Image_Enhancer.Form02.resources
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\obj\Debug\net8.0-windows\Image_Enhancer.Form3.resources
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\obj\Debug\net8.0-windows\Image_Enhancer.Properties.Resources.resources
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\obj\Debug\net8.0-windows\Image Enhancer.csproj.GenerateResource.cache
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\obj\Debug\net8.0-windows\Image Enhancer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\obj\Debug\net8.0-windows\Image Enhancer.AssemblyInfoInputs.cache
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\obj\Debug\net8.0-windows\Image Enhancer.AssemblyInfo.cs
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\obj\Debug\net8.0-windows\Image Enhancer.csproj.CoreCompileInputs.cache
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\obj\Debug\net8.0-windows\Image En.D80EA1B6.Up2Date
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\obj\Debug\net8.0-windows\Image Enhancer.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\obj\Debug\net8.0-windows\refint\Image Enhancer.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\obj\Debug\net8.0-windows\Image Enhancer.pdb
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\obj\Debug\net8.0-windows\Image Enhancer.genruntimeconfig.cache
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\obj\Debug\net8.0-windows\ref\Image Enhancer.dll
+C:\Users\Angela\Documents\VS Projects\GICHECKAN NI KAREN PAG MIDTERM\obj\Debug\net8.0-windows\Image_Enhancer.Convultion.resources
